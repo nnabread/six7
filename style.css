@@ -2105,7 +2105,7 @@ textarea.w-input, textarea.w-select {
 }
 
 .body {
-  height: 200vh;
+  height: 100vh;
   perspective: 2000px;
   background-color: #fff;
   justify-content: center;
